@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548299858792",
+    "project_id": "latihan-firebase-fe459",
+    "storage_bucket": "latihan-firebase-fe459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548299858792:android:3b7dc2b152a57a3f412cdd",
+        "android_client_info": {
+          "package_name": "com.universitaskuningan.tugas4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnPAi4FKlxPl7Xy2nknKaOsGdTyImbFBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

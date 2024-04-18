@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas4</string>
+    <string name="title_login">LOGIN</string>
+    <string name="title_register">REGISTER</string>
+</resources>
